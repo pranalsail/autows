@@ -28,5 +28,5 @@
 
   - name: debug-as3_output
     debug:
-      msg: "my-as3-output {{ as3_output }}"  
+      msg: "my-as3-output is {{ as3_output }}"  
 ...
